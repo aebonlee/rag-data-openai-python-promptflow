@@ -1,3 +1,6 @@
+https://learn.microsoft.com/ko-kr/azure/ai-foundry/tutorials/copilot-sdk-build-rag
+
+
 # Copilot application that implements RAG
 
 This is a sample copilot that application that implements RAG via custom Python code, and can be used with the Azure AI Studio. This sample aims to provide a starting point for an enterprise copilot grounded in custom data that you can further customize to add additional intelligence or capabilities.  
